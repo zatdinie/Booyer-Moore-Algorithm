@@ -1,0 +1,1 @@
+# Booyer-Moore-Algorithm
