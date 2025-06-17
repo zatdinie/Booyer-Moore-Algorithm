@@ -1,1 +1,5 @@
-# Booyer-Moore-Algorithm
+# Assignment 2 CPT212
+
+**GROUP MEMBER**
+
+MUHAMMAD EIZZAT DINIE BIN AZHAR, 22305452
